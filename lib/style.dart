@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const whiteColor = Color(0xffffffff);
-  static const textColor = Color.fromARGB(255, 26, 3, 129);
-  static const secondaryTextColor = Color(0xff524B6B);
-  static const buttonColor = Color(0xffE6E1FF);
-  static const primaryButtonColor = Color(0xff130160);
-  static const tncButtonColor = Color(0xffFF9228);
-  static const textField = Color(0xFF868585dd);
+  static const whiteColor = Color(0xFFFFFFFF);
+  static const textColor = Color(0xFF1A0381);
+  static const secondaryTextColor = Color(0xFF524B6B);
+  static const buttonColor = Color(0xFFE6E1FF);
+  static const primaryButtonColor = Color(0xFF130160);
+  static const tncButtonColor = Color(0xFFFF9228);
+  static const textField = Color(0xFF8685dd);
 }
 
 class TextStyles {
